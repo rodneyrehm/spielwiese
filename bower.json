@@ -1,0 +1,23 @@
+{
+  "name": "spielwiese",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "test repository",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "Superman"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
